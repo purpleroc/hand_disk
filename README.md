@@ -4,14 +4,23 @@
 
 ## Usage：
     注：本程序暂未支持对本地磁盘操作。
-    `hand_disk.exe [filename]`
-    `filename：被损坏的磁盘镜像文件`
+`hand_disk.exe [filename]`
+`filename：被损坏的磁盘镜像文件`
     
 ## Screenshot：
+分析镜像文件得到的结果：
 ![](screenshot/hand.png)  
+
+由用户选择需要恢复的分区：  
 ![](screenshot/hand1.png)  
+
+恢复结果：  
 ![](screenshot/hand2.png)  
-![](screenshot/hand3.png)
-![](screenshot/hand4.png)
+
+由用户选择需要恢复的分区：  
+![](screenshot/hand3.png)  
+
+同一个文件另一种恢复结果：  
+![](screenshot/hand4.png)  
 
 ## Enjoy it!
