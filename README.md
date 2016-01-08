@@ -8,10 +8,10 @@
     `filename：被损坏的磁盘镜像文件`
     
 ## Screenshot：
-    ![](./screenshot/hand.png)  
-    ![](./screenshot/hand1.png)  
-    ![](./screenshot/hand2.png)  
-    ![](./screenshot/hand3.png)
-    ![](./screenshot/hand4.png)
+    ![](/screenshot/hand.png)  
+    ![](/screenshot/hand1.png)  
+    ![](/screenshot/hand2.png)  
+    ![](/screenshot/hand3.png)
+    ![](/screenshot/hand4.png)
 
 ## Enjoy it!
